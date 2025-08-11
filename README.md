@@ -1,5 +1,5 @@
 # Coinbase Wallet SDK
-
+Coinbase Wallet SDK
 - 👋 Hi
 
 - 👀 I’m interested in ...
