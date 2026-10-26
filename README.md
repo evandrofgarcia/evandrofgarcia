@@ -1,4 +1,4 @@
-New pull  RequestCoinbase Wallet SDK# Coinbase Wallet SDK
+ okNew pull  RequestCoinbase Wallet SDK# Coinbase Wallet SDK
 Coinbase Wallet SDK
 -# Coinbase Wallet SDK
 4707e780b3e90639e646f8af4d1b6dad459728b04707e780b3e90639e646f8af4d1b6dad459728b0
